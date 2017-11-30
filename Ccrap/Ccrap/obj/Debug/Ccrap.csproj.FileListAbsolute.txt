@@ -1,0 +1,6 @@
+c:\users\4164544\documents\visual studio 2015\Projects\Ccrap\Ccrap\obj\Debug\Ccrap.csprojResolveAssemblyReference.cache
+c:\users\4164544\documents\visual studio 2015\Projects\Ccrap\Ccrap\bin\Debug\Ccrap.exe.config
+C:\Users\4164544\Documents\Visual Studio 2015\Projects\Ccrap\Ccrap\bin\Debug\Ccrap.exe
+C:\Users\4164544\Documents\Visual Studio 2015\Projects\Ccrap\Ccrap\bin\Debug\Ccrap.pdb
+C:\Users\4164544\Documents\Visual Studio 2015\Projects\Ccrap\Ccrap\obj\Debug\Ccrap.exe
+C:\Users\4164544\Documents\Visual Studio 2015\Projects\Ccrap\Ccrap\obj\Debug\Ccrap.pdb
