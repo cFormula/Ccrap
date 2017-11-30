@@ -15,7 +15,7 @@ namespace Ccrap
 
         static void Main()
         {
-
+            // Change output directories here
             if (!File.Exists(@"C:\Users\4164544\Documents\Visual Studio 2015\Projects\Ccrap\Ccrap\Verified.txt"))
             {
                 File.Create(@"C:\Users\4164544\Documents\Visual Studio 2015\Projects\Ccrap\Ccrap\Verified.txt").Dispose();
